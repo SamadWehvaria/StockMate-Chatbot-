@@ -6,7 +6,7 @@ import pandas as pd
 def connect_to_database():
     conn_str = (
         r"DRIVER={ODBC Driver 17 for SQL Server};"
-        r"SERVER=localhost;"
+        r"SERVER=DESKTOP-KEJFO11;"
         r"DATABASE=inventory;"
         r"Trusted_Connection=yes;"
     )
