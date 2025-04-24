@@ -5,6 +5,5 @@ faiss-cpu
 sentence-transformers
 requests
 streamlit
-csv
 numpy
 datetime
